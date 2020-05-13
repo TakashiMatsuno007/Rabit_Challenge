@@ -18,6 +18,5 @@
   - k-means（クラスタリング） ________ skl_kmeans.ipynb , np_kmeans.ipynb
   - サポートベクターマシン ____________ np_svm.ipynb
 
-[study_ai](http://study-ai.com/jdla/)
-
 ![study_aiロゴ](http://ai999.careers/bnr_jdla.png)
+[study_ai](http://study-ai.com/jdla/)
