@@ -1,6 +1,8 @@
 # Rabit_Challenge
 ラビット★チャレンジでＥ検定に合格！
 ## 
+![study_aiロゴ](http://ai999.careers/bnr_jdla.png)
+## 
 ## 応用数学
 - 要点まとめレポート ___________________ 応用数学（要点まとめ）.pdf
 
