@@ -14,5 +14,7 @@
   - k近傍法 ______________________________ np_knn.ipynb
   - k-means（クラスタリング） ________ skl_kmeans.ipynb , np_kmeans.ipynb
   - サポートベクターマシン ____________ np_svm.ipynb
+- 自主的実装演習
+  - ロジスティック回帰によるL1正則化の検討 _______ l1_regularization.ipynb
 
 [![study_aiロゴ](http://ai999.careers/bnr_jdla.png)](http://study-ai.com/jdla/)
