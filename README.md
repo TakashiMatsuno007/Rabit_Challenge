@@ -1,5 +1,5 @@
 # Rabit_Challenge
-### ラビット★チャレンジでＥ検定に合格！  
+#### ラビット★チャレンジでＥ検定に合格！
 [![study_aiロゴ](http://ai999.careers/bnr_jdla.png)](http://study-ai.com/jdla/)
 ## 応用数学
 - 要点まとめレポート ___________________ 応用数学（要点まとめ）.pdf
@@ -14,5 +14,4 @@
   - k近傍法 ______________________________ np_knn.ipynb
   - k-means（クラスタリング） ________ skl_kmeans.ipynb , np_kmeans.ipynb
   - サポートベクターマシン ____________ np_svm.ipynb
-
 [![study_aiロゴ](http://ai999.careers/bnr_jdla.png)](http://study-ai.com/jdla/)
