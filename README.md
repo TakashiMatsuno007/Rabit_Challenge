@@ -14,4 +14,5 @@
   - k近傍法 ______________________________ np_knn.ipynb
   - k-means（クラスタリング） ________ skl_kmeans.ipynb , np_kmeans.ipynb
   - サポートベクターマシン ____________ np_svm.ipynb
+
 [![study_aiロゴ](http://ai999.careers/bnr_jdla.png)](http://study-ai.com/jdla/)
