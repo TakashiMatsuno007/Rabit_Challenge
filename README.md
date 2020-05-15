@@ -7,12 +7,12 @@
 ## 機械学習
 - 要点まとめレポート ___________________ 機械学習（要点まとめ）.pdf
 - 実装演習サマリー・考察
-  - 線形回帰モデル _____________________ skl_regression.ipynb , np_regression.ipynb
+  - 線形回帰モデル _____________________ regression.ipynb
   - 非線形回帰モデル ___________________ skl_nonlinear_regression.ipynb
-  - ロジスティック回帰モデル _________ skl_logistic_regression.ipynb , np_logistic_regression.ipynb
-  - 主成分分析 __________________________ skl_pca.ipynb , np_pca.ipynb
+  - ロジスティック回帰モデル _________ logistic_regression.ipynb
+  - 主成分分析 __________________________ pca.ipynb
   - k近傍法 ______________________________ np_knn.ipynb
-  - k-means（クラスタリング） ________ skl_kmeans.ipynb , np_kmeans.ipynb
+  - k-means（クラスタリング） ________ kmeans.ipynb
   - サポートベクターマシン ____________ np_svm.ipynb
 - 自主的実装演習
   - ロジスティック回帰によるL1正則化の検討 _______ l1_regularization.ipynb
