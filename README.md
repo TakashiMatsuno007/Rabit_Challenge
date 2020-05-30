@@ -33,12 +33,12 @@
 
 - Day3：要点まとめレポート _____________ 深層学習３（要点まとめ）.pdf
   - 実装演習サマリー
-    - RNN ____________________________ 3_1_simple_RNN.ipynb
+    - RNN _____________________________ 3_1_simple_RNN.ipynb
     - RNN・BPTT ______________________ 3_3_predict_sin.ipynb
 
 - Day4：要点まとめレポート _____________ 深層学習４（要点まとめ）.pdf
   - 実装演習サマリー
-    - Tensorflowの実装演習 ____________ 4_1_tensorflow_codes.ipynb
+    - Tensorflowの実装演習 ___________ 4_1_tensorflow_codes.ipynb
     - Kerasの実装演習 _________________ 4_3_keras_codes.ipynb
 
 [![study_aiロゴ](http://ai999.careers/bnr_jdla.png)](http://study-ai.com/jdla/)
