@@ -8,7 +8,7 @@
 - 要点まとめレポート ___________________ 機械学習（要点まとめ）.pdf
 - 実装演習サマリー・考察
   - 線形回帰モデル _____________________ regression.ipynb
-  - 非線形回帰モデル ___________________ skl_nonlinear_regression.ipynb
+  - 非線形回帰モデル ___________________ nonlinear_regression.ipynb
   - ロジスティック回帰モデル _________ logistic_regression.ipynb
   - 主成分分析 __________________________ pca.ipynb
   - k近傍法 ______________________________ np_knn.ipynb
